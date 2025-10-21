@@ -1,6 +1,6 @@
 # List practice
 # Comma code
-spam = ['apples', 'bannanas', 'tofu', 'lemmons', 'grapes', 'pinaple']
+spam = ['apples', 'bananas', 'tofu', 'lemons', 'grapes', 'pinapple']
 text = ''
 
 if not spam:
